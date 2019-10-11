@@ -1,0 +1,20 @@
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\GUI Component Application.exe.config
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\GUI Component Application.exe
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\GUI Component Application.pdb
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.Presentation_Layer.MainWindow.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.Properties.Resources.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.csproj.GenerateResource.cache
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.csproj.CoreCompileInputs.cache
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.exe
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.pdb
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.LoginWindow.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.Presentation_Layer.SearchWindow.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.Presentation_Layer.Add.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.csprojAssemblyReference.cache
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI_Component_Application.Presentation_Layer.Help.resources
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\ComponentDB.mdf
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\ComponentDB_log.ldf
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\GUI Component Application.exe.manifest
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\bin\Debug\GUI Component Application.application
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.exe.manifest
+C:\Users\Trainee\OneDrive\Software Development Traineeship\CSharp\GUI Component Application\GUI Component Application\obj\Debug\GUI Component Application.application
